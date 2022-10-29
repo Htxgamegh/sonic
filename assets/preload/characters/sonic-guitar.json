@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "sonic guitar idle"
+		},
+		{
+			"offsets": [
+				31,
+				-3
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "sonic guitar left"
+		},
+		{
+			"offsets": [
+				39,
+				-22
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "sonic guitar down"
+		},
+		{
+			"offsets": [
+				8,
+				23
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "sonic guitar up"
+		},
+		{
+			"offsets": [
+				-30,
+				-1
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "sonic guitar right"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/sonicguitar",
+	"position": [
+		-60,
+		360
+	],
+	"healthicon": "sonic",
+	"flip_x": true,
+	"healthbar_colors": [
+		26,
+		78,
+		255
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

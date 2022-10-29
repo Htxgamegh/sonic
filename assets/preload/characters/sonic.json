@@ -1,0 +1,155 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "sonic idle"
+		},
+		{
+			"offsets": [
+				11,
+				-2
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "sonic left"
+		},
+		{
+			"offsets": [
+				40,
+				-28
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "sonic down"
+		},
+		{
+			"offsets": [
+				31,
+				9
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "sonic up"
+		},
+		{
+			"offsets": [
+				-15,
+				5
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "sonic right"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-15,
+				5
+			],
+			"anim": "singLEFTmiss",
+			"fps": 24,
+			"name": "left miss",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-13,
+				4
+			],
+			"anim": "singDOWNmiss",
+			"fps": 24,
+			"name": "down miss",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-11,
+				3
+			],
+			"anim": "singUPmiss",
+			"fps": 24,
+			"name": "up miss",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-19,
+				0
+			],
+			"anim": "singRIGHTmiss",
+			"fps": 24,
+			"name": "right miss",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-1,
+				-1
+			],
+			"anim": "no",
+			"fps": 24,
+			"name": "sonic oh no",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-3,
+				0
+			],
+			"anim": "shut",
+			"fps": 24,
+			"name": "sonic shut up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				58,
+				-1
+			],
+			"anim": "guitTrans",
+			"fps": 24,
+			"name": "sonic guitar",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/sonicthehedgeho",
+	"position": [
+		0,
+		360
+	],
+	"healthicon": "sonic",
+	"flip_x": true,
+	"healthbar_colors": [
+		26,
+		78,
+		255
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}
